@@ -1,0 +1,4 @@
+# webscraper_webpage
+
+
+Note: This project is incomplete. I started this project today, OCT 9 2023. Ideally, the way it would work is you click start, and it displays the first principle. Next displays the next, so on. Then, clicking back would display the previous principle, until the counter hits 0, which would then render the initial starting page. I changed the buttons for now to make more sense with the current behavior of the site, so that "show" and "hide" work as intended, the next button as of now has no functionality. I wanted to throw this on GitHub to show the projects current state, as well as receive any feedback. Thanks!
